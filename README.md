@@ -14,22 +14,27 @@
 
 [![image-20221121173712473](README.assets/image-20221121173712473.png)](https://github.com/kimbap918/sanme_proj/graphs/contributors)
 
++ 최준혁 https://github.com/kimbap918
++ 간정진 https://github.com/JeongJinGan
++ 김다솔 https://github.com/solightnsalt
++ 신우철 https://github.com/woocheolll
++ 이제준 https://github.com/jejoonlee
 
 
 ### 역할 분담
 
 #### Front-end
 
-+ 김다솔
++ 김다솔 
 
 
 
 #### Back-end
 
-+ 이제준
-+ 신우철
-+ 간정진
-+ 최준혁
++ 이제준 
++ 신우철 
++ 간정진 
++ 최준혁 
 
 
 
@@ -137,4 +142,24 @@
 - ERD
 
   [산메](https://www.erdcloud.com/d/5bSqa7ABTAapJgmkm)
+
+
+
+
+## DB 모델링
+![image](https://user-images.githubusercontent.com/75712723/203452923-329ef100-9c05-4315-a713-01364c834bcf.png)
+
+
+
+
+## 기능 소개
+![image](https://user-images.githubusercontent.com/75712723/203453121-2c6f9f56-7539-4936-9e07-efc4d4289089.png)
+![image](https://user-images.githubusercontent.com/75712723/203453161-454585fe-a077-47fd-ab0d-b59b5b828c69.png)
+![image](https://user-images.githubusercontent.com/75712723/203453187-a4252bb9-8c98-4920-a304-7fa05769d401.png)
+![image](https://user-images.githubusercontent.com/75712723/203453212-93343a73-94c9-46dc-bcd5-a478afca61ca.png)
+![image](https://user-images.githubusercontent.com/75712723/203453237-f1c2ddb6-d618-44d7-b89d-7d16bb0ed6a5.png)
+![image](https://user-images.githubusercontent.com/75712723/203453260-d6f6d79a-db2f-4b53-9886-eca921e8f3fd.png)
+![image](https://user-images.githubusercontent.com/75712723/203453278-39f92827-4c15-46bb-b0c1-f5b0b034eaf9.png)
+
+
 
