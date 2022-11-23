@@ -147,19 +147,21 @@
 
 
 ## DB 모델링
-![image](https://user-images.githubusercontent.com/75712723/203452923-329ef100-9c05-4315-a713-01364c834bcf.png)
+![1](https://user-images.githubusercontent.com/75712723/203453936-4e07d889-7681-4302-9d45-3d2533ec2b5c.png)
+
 
 
 
 
 ## 기능 소개
-![image](https://user-images.githubusercontent.com/75712723/203453121-2c6f9f56-7539-4936-9e07-efc4d4289089.png)
-![image](https://user-images.githubusercontent.com/75712723/203453161-454585fe-a077-47fd-ab0d-b59b5b828c69.png)
-![image](https://user-images.githubusercontent.com/75712723/203453187-a4252bb9-8c98-4920-a304-7fa05769d401.png)
-![image](https://user-images.githubusercontent.com/75712723/203453212-93343a73-94c9-46dc-bcd5-a478afca61ca.png)
-![image](https://user-images.githubusercontent.com/75712723/203453237-f1c2ddb6-d618-44d7-b89d-7d16bb0ed6a5.png)
-![image](https://user-images.githubusercontent.com/75712723/203453260-d6f6d79a-db2f-4b53-9886-eca921e8f3fd.png)
-![image](https://user-images.githubusercontent.com/75712723/203453278-39f92827-4c15-46bb-b0c1-f5b0b034eaf9.png)
+![2](https://user-images.githubusercontent.com/75712723/203453949-784fb821-6848-4c7c-aa74-45c31028cb03.png)
+![3](https://user-images.githubusercontent.com/75712723/203453958-2a4de647-42b7-4dee-b149-5eb81c6d615b.png)
+![4](https://user-images.githubusercontent.com/75712723/203453971-d8737df2-4aa2-4bd1-b6e7-5691012fe3c9.png)
+![5](https://user-images.githubusercontent.com/75712723/203453972-b5aa46e1-fcf0-40ef-9033-aab3eeaaaef4.png)
+![6](https://user-images.githubusercontent.com/75712723/203453977-7ce59b3a-01a3-474f-8a6a-597099a7633b.png)
+![7](https://user-images.githubusercontent.com/75712723/203453987-eaf2943a-5560-4a08-9196-4f63020cb24d.png)
+![8](https://user-images.githubusercontent.com/75712723/203454004-66f89b8a-cb3e-4940-94ae-848a8cef3241.png)
+
 
 
 
