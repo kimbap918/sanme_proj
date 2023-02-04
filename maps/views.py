@@ -138,7 +138,7 @@ def search(request, x, y):
 
     for park in park_list:
         if park["userDistance"] <= 1000:
-            park["userDistance"] = int(park["userDistance"]) + "m"
+            park["userDistance"] = format(park["userDistance"], ".2f") + "m"
         else:
             park["userDistance"] = park["userDistance"] / 1000
             park["userDistance"] = format(park["userDistance"], ".2f") + "km"
