@@ -9,7 +9,7 @@
 {% block section %}
   <section class="login-container">
     <h1 class="text-center my-2">로그인</h1>
-    <form action="{% url 'accounts:login' %}" method='POST' onsubmit="return frm_check();">
+    <form action="" method='POST' onsubmit="return frm_check();">
       {% csrf_token %}
       {% render_field login_form.username class="form-control w-70" placeholder="아이디를 입력하세요" type="text" name="id" id="logId" %}
       {% render_field login_form.password class="form-control w-70 my-2" placeholder="비밀번호를 입력하세요" %}
@@ -28,8 +28,9 @@
             </b>
           </a>
         </p>
-      </form>
-    </section>
+      </div>
+    </form>
+  </section>
   {% endblock section %}
 
   {% block script %}

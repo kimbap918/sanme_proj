@@ -83,12 +83,6 @@
 
   <p class="detail-content-up">{{ post.updated_at }}에 생성</p>
 
-    <div class="container d-flex detail-content">
-      <p class="detail-content-detail">{{ post.content }}</p>
-    </div>
-
-    <p class="detail-content-up">{{ post.updated_at }}에 생성</p>
-
     {% if request.user == post.user %}
       <div>
         <a class="btn pos-btn my-3 float-right" href="{% url 'articles:update' post.pk %}">수정하기</a>
@@ -132,6 +126,7 @@
               id="comment-update-{{ comment.pk }}">취소</p>
           </div>
         </div>
+        {% endif %}
       {% endfor %}
     </div>
 
@@ -380,16 +375,8 @@
 
     <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5a06118ba07d4964a2e24ae9f85e906f"></script>
     <script>
-      var parkLat = {
-        {
-          latitude
-        }
-      }
-      var parkLong = {
-        {
-          longitude
-        }
-      }
+      var parkLat = {{latitude}}
+      var parkLong = {{longitude}}
       var parkName = '{{ name }}에서 산책해요!'
       // 이미지 지도에 표시할 마커입니다
       // 이미지 지도에 표시할 마커를 아래와 같이 배열로 넣어주면 여러개의 마커를 표시할 수 있습니다
